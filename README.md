@@ -11,6 +11,7 @@
 
 ## Cấu trúc thư mục
 
+```bash
 Datamining-Lettuce-Health/
 ├── README.md           # File hướng dẫn này
 ├── report.pdf          # Báo cáo chi tiết (so sánh 3 mô hình)
@@ -25,7 +26,7 @@ Datamining-Lettuce-Health/
     ├── preprocessing.py  # Script tiền xử lý, tạo dataloader
     ├── model_training.py # Script định nghĩa CẢ 3 MODEL
     └── evaluation.py     # Script đánh giá model
-
+```
 ## Hướng dẫn cài đặt và chạy
 1. Clone project:
 git clone [https://github.com/nguyenanhkhoa24112004-glitch/Datamining-Lettuce-Health.git](https://github.com/nguyenanhkhoa24112004-glitch/Datamining-Lettuce-Health.git)
