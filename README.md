@@ -11,7 +11,6 @@
 
 ## Cấu trúc thư mục
 
-```bash
 Datamining-Lettuce-Health/
 ├── README.md           # File hướng dẫn này
 ├── report.pdf          # Báo cáo chi tiết (so sánh 3 mô hình)
