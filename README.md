@@ -47,5 +47,5 @@ Link Demo Online:
 Nhóm đã triển khai một phiên bản demo (sử dụng ResNet50) trên Hugging Face Spaces: https://huggingface.co/spaces/main00100/PlantHealth-ResNet50-App
 
 Kết quả
-Sau khi so sánh 3 mô hình, mô hình tốt nhất là ResNet50 đạt độ chính xác 97%
+Sau khi so sánh 3 mô hình, mô hình tốt nhất là ResNet50 đạt độ chính xác 97-98%
 
